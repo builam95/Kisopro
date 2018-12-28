@@ -1,0 +1,1358 @@
+db.GetTitle.insert(
+{
+    title : 東京電機大学
+
+{"link" : "https://www.dendai.ac.jp/index.html",
+"Description" : "東京電機大学"},
+
+{"link" : "https://www.dendai.ac.jp/access/index.html",
+"Description" : "交通案内"},
+
+{"link": "https://www.dendai.ac.jp/contact/index.html",
+"Description" : "お問い合わせ"},
+
+{"link" : "https://www.dendai.ac.jp#",
+"Description" : "Language"},
+
+{"link" : "https://www.dendai.ac.jp/en/",
+"Description : English"},
+
+{"link" : "https://www.dendai.ac.jp/ch/",
+"Description" : "中文（簡体字）"},
+
+{"link" : "https://www.dendai.ac.jp/sitemap.html",
+"Description" : "サイトマップ"}
+
+{"link" : "https://www.dendai.ac.jp#",
+"Description" : "サイト内検索"},
+
+{"link : https://www.umcnavi.jp/tdu/dendai_top.asp",
+"Description : 資料請求"},
+
+{"link" : "https://www.umcnavi.jp/tdu/dendai_top.asp",
+"Description" : "資料請求"},
+
+{"link" : "https://www.dendai.ac.jp#",
+"Description" : "メニュー"},
+
+{"link" : "https://www.dendai.ac.jp#",
+"Description" : "閉じる"},
+
+{"link" : "https://www.dendai.ac.jp/about/index.html",
+"Description" : "東京電機大学について"},
+
+{"link" : "https://www.dendai.ac.jp/prospective-students/index.html",
+"Description" : "受験生・ 高校生の方"},
+
+{"link" : "https://www.dendai.ac.jp/students/index.html",
+"Description" : "在学生・ 保護者の方"},
+
+{"link" : "https://www.dendai.ac.jp/alumni/index.html",
+"Description" : "卒業生の方"},
+
+{"link" : "https://www.dendai.ac.jp/companies/index.html",
+"Description" : "企業・ 研究機関の方"},
+
+{"link" : "https://www.dendai.ac.jp/generals/index.html",
+"Description" : "一般・ 地域の方"},
+
+{"link" : "https://www.dendai.ac.jp#",
+{"Description" : "交通案内"},
+
+{"link" :"https://www.dendai.ac.jp/access/tokyo_senju.html",
+"Description" : "東京千住キャンパス"},
+
+{"link" : "https://www.dendai.ac.jp/access/saitama_hatoyama.html",
+"Description" : "埼玉鳩山キャンパス"},
+
+{"link" : "https://www.dendai.ac.jp/access/chiba_newtown.html",
+"Description" : "千葉ニュータウンキャンパス"},
+
+{"link" : "https://www.dendai.ac.jp#campus",
+"Description" : "学部・大学院とキャンパス"},
+
+{"link" : "https://www.dendai.ac.jp",
+"Description" : "閉じる"},
+
+{"link" : "https://www.dendai.ac.jp/about/index.html",
+"Description" : "東京電機大学について"},
+
+{"link" : "https://www.dendai.ac.jp/about/tdu/index.html",
+"Description" : "大学紹介"},
+
+{"link" : "https://www.dendai.ac.jp/about/gakuen/index.html",
+"Description" : "学園紹介"},
+
+{"link" : "https://www.dendai.ac.jp/about/undergraduate/index.html",
+"Description" : "学部"},
+
+{"link" : "https://www.dendai.ac.jp/about/graduate/index.html",
+"Description" : "大学院"},
+
+{"link" : "https://www.dendai.ac.jp/about/admission/index.html",
+"Description" : "入試・オープンキャンパス"},
+
+{"link" : "https://www.dendai.ac.jp/about/career/index.html",
+"Description" : "就職・キャリア支援"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/index.html",
+"Description" : "学生生活"},
+
+{"link" : "https://www.dendai.ac.jp/about/international/index.html",
+"Description" : "留学・国際交流"},
+
+{"link" : "https://www.dendai.ac.jp/about/research/index.html",
+"Description" : "研究・産官学連携"},
+
+{"link" : "https://www.dendai.ac.jp/about/contribute/index.html",
+"Description" : "生涯学習・地域連携"},
+
+{"link" : "https://www.dendai.ac.jp/index.html",
+"Description" : "HOME"},
+
+{"link" : "https://www.dendai.ac.jp/access/",
+"Description" : "交通案内"},
+
+{"link" : "https://www.dendai.ac.jp/access/tokyo_senju.html",
+"Description" : "東京千住キャンパス"},
+
+{"link" : "https://www.dendai.ac.jp/access/saitama_hatoyama.html",
+"Description" : "埼玉鳩山キャンパス"},
+
+{"link" : "https://www.dendai.ac.jp/access/chiba_newtown.html",
+"Description" : "千葉ニュータウンキャンパス"},
+
+{"link" :" https://www.dendai.ac.jp#/about/tdu/index.html",
+"Description ": "大学紹介"},
+
+{"link": "https://www.dendai.ac.jp#/about/tdu/outline/index.html",
+"Description" : "基本情報"},
+
+{"link" : "https://www.dendai.ac.jp#/about/tdu/president/index.html",
+"Description" : "学長ご挨拶"},
+
+{"link" : "https://www.dendai.ac.jp#/about/tdu/vice-president/index.html",
+"Description" : "副学長・学長補佐等 役職者"},
+
+{"link ": "https://www.dendai.ac.jp#/about/tdu/mission/index.html",
+"Description" : "建学の精神と教育・研究理念"},
+
+{"link" : "https://www.dendai.ac.jp#/about/tdu/policies/index.html",
+"Description" : "東京電機大学大学院・大学の３つのポリシー"},
+
+{"link" : "https://www.dendai.ac.jp#/about/tdu/history/index.html",
+"Description" : "大学のあゆみ"},
+
+{"link" : "https://www.dendai.ac.jp#/about/tdu/activities/index.html",
+"Description" : "大学の取り組み"},
+
+{"link" : "https://www.dendai.ac.jp#/about/tdu/information/index.html",
+"Description" : "情報公開"},
+
+{"link" : "https://www.dendai.ac.jp#/about/tdu/valuation/index.html",
+"Description ":" 認証評価、自己点検・評価"},
+
+{"link" : "https://www.dendai.ac.jp#/about/tdu/homecoming/index.html",
+"Description" : "ホームカミングデー"},
+
+{"link" : "https://www.dendai.ac.jp#/about/tdu/model.html",
+"Description" : "東京電機大学が求める教員像"},
+
+{"link ": "https://www.dendai.ac.jp#/about/tdu/facility/index.html",
+"Description" : "教育関係附置施設"},
+
+{"link" :" https://www.dendai.ac.jp#/about/tdu/campus/index.html",
+"Description" : "キャンパス紹介"},
+
+{"link" : "https://www.dendai.ac.jp#/about/gakuen/index.html",
+"Description ": "学園紹介"},
+
+{"link ": "https://www.dendai.ac.jp#/about/gakuen/outline/index.html",
+"Description ": "学校法人東京電機大学概要"},
+
+{"link" : "https://www.dendai.ac.jp#/about/gakuen/chairperson/index.html",
+"Description ": "理事長挨拶"},
+
+{"link" : "https://www.dendai.ac.jp#/about/gakuen/trustee/index.html",
+"Description" : "理事・監事"},
+
+{"link" : "https://www.dendai.ac.jp#/about/gakuen/governance/index.html",
+"Description" : "ガバナンス体制"},
+
+{"link" : "https://www.dendai.ac.jp#/about/gakuen/jigyo/index.html",
+"Description" : "事業・財務情報"},
+
+{"link" : "https://www.dendai.ac.jp#/about/gakuen/100years/index.html",
+"Description ": "学園創立100周年宣言"},
+
+{"link ": "https://www.dendai.ac.jp#/about/gakuen/publicity/index.html",
+"Description ":" 学園広報物"},
+
+{"link" :" https://www.dendai.ac.jp#/about/gakuen/institutions/index.html",
+"Description" : "系列校・関連機関"},
+
+{"link" : "https://www.dendai.ac.jp#/about/gakuen/foundation/index.html",
+"Description" : "学園へのご寄付",
+
+{"link" : "https://www.dendai.ac.jp#/about/gakuen/model/index.html",
+"Description" : "学校法人東京電機大学が求める事務・技術職員像"},
+
+{"link" : "https://www.dendai.ac.jp#/about/gakuen/tdu110th/index.html",
+"Description" : "学園創立110周年記念事業"},
+
+{"link" : "https://www.dendai.ac.jp#/about/undergraduate/index.html",
+"Description" : "学部"},
+
+{"link ": "https://www.dendai.ac.jp#/about/undergraduate/system_design/index.html",
+"Description ": "システムデザイン工学部"},
+
+{"link ":" https://www.dendai.ac.jp#/about/undergraduate/mirai_kagaku/index.html",
+"Description" : "未来科学部"
+
+{"link" : "https://www.dendai.ac.jp#/about/undergraduate/kougaku/index.html",
+"Description" : "工学部"},
+
+{"link" : "https://www.dendai.ac.jp#/about/undergraduate/kougaku2/index.html",
+"Description ": "工学部第二部"},
+
+{"link" : "https://www.dendai.ac.jp#/about/undergraduate/rikougaku/index.html",
+"Description" : "理工学部"},
+
+{"link" : "https://www.dendai.ac.jp#/about/undergraduate/jyouhou_kankyou/index.html",
+"Description" : "情報環境学部"},
+
+{"link" : "https://www.dendai.ac.jp#/about/graduate/index.html",
+"Description" : "大学院"},
+
+{"link" : "https://www.dendai.ac.jp#/about/graduate/outline/index.html",
+"Description" : "大学院での学び"},
+
+{"link" : "https://www.dendai.ac.jp#/about/graduate/sentan_kagaku_gijyutu/index.html",
+"Description" : "先端科学技術研究科"},
+
+{"link ": "https://www.dendai.ac.jp#/about/graduate/mirai_kagaku/index.html",
+"Description ": "未来科学研究科"},
+
+{"link ": "https://www.dendai.ac.jp#/about/graduate/kougaku/index.html",
+"Description" : "工学研究科"},
+
+{"link" : "https://www.dendai.ac.jp#/about/graduate/rikougaku/index.html",
+"Description" : "理工学研究科"},
+
+{"link" : "https://www.dendai.ac.jp#/about/graduate/jyouhou_kankyou/index.html",
+"Description" : "情報環境学研究科"},
+
+{"link" : "https://www.dendai.ac.jp#/about/admission/index.html",
+"Description" : "入試・オープンキャンパス"},
+
+{"link" : "https://www.dendai.ac.jp#/about/admission/undergraduate/index.html",
+"Description" : "大学入試"},
+
+{"link" : "https://www.dendai.ac.jp#/about/admission/graduate/index.html",
+"Description" : "大学院入試"},
+
+{"link" : "https://www.dendai.ac.jp#/about/admission/internet_syutsugan/index.html",
+"Description ": "インターネット出願"},
+
+{"link" : "https://www.dendai.ac.jp#/about/admission/youkou/index.html",
+"Description" : "入学試験要項一覧"},
+
+{"link" : "https://www.dendai.ac.jp#/about/admission/nyushi_data/index.html",
+"Description" : "入試結果"},
+
+{"link" : "https://www.dendai.ac.jp#/about/admission/opencampus/index.html",
+"Description" :" オープンキャンパス2018"},
+
+{"link" : "https://www.dendai.ac.jp#/about/admission/shingaku_soudankai/2018.html",
+"Description" : "大学進学相談会2018（学園祭同時開催）"},
+
+{"link" : "https://www.dendai.ac.jp#/about/admission/shingaku_soudankai/index.html",
+"Description" : "進学相談会"},
+
+{"link" : "https://www.dendai.ac.jp#/about/admission/kengaku/index.html",
+"Description ":" キャンパス見学"},
+
+{"link" : "https://www.dendai.ac.jp#/about/admission/mail_magazine/index.html",
+"Description" : "メールマガジン"},
+
+{"link ": "https://www.dendai.ac.jp#/about/admission/tdu/index.html",
+"Description" : "ざっくりまとめました！ 東京電機大学の7つのこと"},
+
+{"link" : "https://www.dendai.ac.jp#/about/career/index.html",
+"Description" : "就職・キャリア支援"},
+
+{"link" : "https://www.dendai.ac.jp#/about/career/gakunai/index.html",
+"Description" : "学内専用サイト"},
+
+{"link ": "https://www.dendai.ac.jp#/about/career/outline.html",
+"Description ": "キャリア教育"},
+
+{"link" : "https://www.dendai.ac.jp#/about/career/support/support.html",
+"Description ": "就職・キャリア支援制度"},
+
+{"link" : "https://www.dendai.ac.jp#/about/career/internship.html",
+"Description" : "インターンシップ"},
+
+{"link" : "https://www.dendai.ac.jp#/about/career/voice.html",
+"Description" : "内定者の声"},
+
+{"link ": "https://www.dendai.ac.jp#/about/career/interview/interview.html",
+"Description" : "卒業生インタビュー"},
+
+{"link" : "https://www.dendai.ac.jp#/about/career/job.html",
+"Description ":" 就職実績"},
+
+{"link" : "https://www.dendai.ac.jp#/about/career/qualification/qualification.html",
+"Description" : "資格取得・教員免許"},
+
+{"link" : "https://www.dendai.ac.jp#/about/career/recruit/recruit.html",
+"Description" : "採用ご担当者の皆様へ"},
+
+{"link ": "https://www.dendai.ac.jp#/about/campuslife/index.html",
+"Description ":" 学生生活"},
+
+{"link ": "https://www.dendai.ac.jp#/about/campuslife/youran/index.html",
+"Description" : "学生要覧"},
+
+{"link ": "https://www.dendai.ac.jp#/about/campuslife/risyuu/index.html",
+"Description" : "履修の手引き"}, 
+
+{"link ": "https://www.dendai.ac.jp#/about/campuslife/kyoushoku/index.html",
+"Description" : "教職課程"},
+
+{"link" :" https://www.dendai.ac.jp#/about/campuslife/syllabus/index.html",
+"Description" : "シラバス・時間割"},
+
+{"link" :" https://www.dendai.ac.jp#/about/campuslife/schedule.html",
+"Description" : "年間予定"},
+
+{"link" : "https://www.dendai.ac.jp#/about/campuslife/study_support/index.html",
+"Description ": "学習サポートセンター"},
+
+{"link" : "https://www.dendai.ac.jp#/about/campuslife/advisor.html",
+"Description" :" 学生アドバイザー"},
+
+{"link" : "https://www.dendai.ac.jp#/about/campuslife/other/index.html",
+"Description" : "その他授業関係"},
+
+{"link ":" https://www.dendai.ac.jp#/about/campuslife/expenses/index.html",
+"Description" : "学費"},
+
+{"link" : "https://www.dendai.ac.jp#/about/campuslife/scholarship.html",
+"Description" : "奨学金"},
+
+{"link" :" https://www.dendai.ac.jp#/about/campuslife/loan/index.html",
+"Description" :" 教育ローン・短期貸与金制度"},
+
+{"link" : "https://www.dendai.ac.jp#/about/campuslife/life_support/index.html",
+"Description" : "保険制度・経費補助"},
+
+{"link" : "https://www.dendai.ac.jp#/about/campuslife/office/index.html",
+"Description ": "証明書発行・事務窓口"},
+
+{"link ": "https://www.dendai.ac.jp#/about/campuslife/counseling/index.html",
+"Description" : "学生相談室・健康相談室"},
+
+{"link ": "https://www.dendai.ac.jp#/about/campuslife/kyuugaku_taigaku.html",
+"Description" : "休学・退学などについて"},
+
+{"link" : "https://www.dendai.ac.jp#/about/campuslife/club/index.html",
+"Description ": "クラブ・サークル活動"},
+
+{"link" : "https://www.dendai.ac.jp#/about/campuslife/dinning_hall/index.html",
+"Description" :"学生食堂と売店"},
+
+{"link ":"https://www.dendai.ac.jp/about/campuslife/car/index.html",
+"Description" : "車両通学"},
+
+{"link" : "https://www.dendai.ac.jp#/about/campuslife/tokyo2020/index.html",
+"Description" :" 東京2020オリンピック・パラリンピック競技大会に向けた東京電機大学の取り組み"},
+
+{"link" :"https://www.dendai.ac.jp#/about/international/index.html",
+"Description" : "留学・国際交流"},
+
+{"link ": "https://www.dendai.ac.jp#/about/international/welcome/ryugaku.html",
+"Description" : "本学へ留学希望の方"},
+
+{"link" : "https://www.dendai.ac.jp#/about/international/welcome/index01.html",
+"Description" : "本学へ留学希望の方(最新TOPICS)"},
+
+{"link ": "https://www.dendai.ac.jp#/about/international/abroad/study_abroad_program.html",
+"Description" : "海外に留学希望の方"},
+
+{"link" : "https://www.dendai.ac.jp#/about/international/abroad/index01.html",
+"Description" : "海外に留学希望の方(最新TOPICS)"},
+
+{"link" : "https://www.dendai.ac.jp#/about/international/center.html",
+"Description" : "国際センター"},
+
+{"link" :" https://www.dendai.ac.jp#/about/international/gakunai.html/kokunai.html",
+"Description" :" 国内でできる国際交流"},
+
+{"link" : "https://www.dendai.ac.jp#/about/research/index.html",
+"Description ": "研究・産官学連携"},
+
+{"link" : "https://www.dendai.ac.jp#/about/research/info.html",
+"Description" : "研究情報"},
+
+{"link" : "https://www.dendai.ac.jp#/about/research/other/index.html",
+"Description" : "研究支援、研究員・研究生"},
+
+{"link" : "https://www.dendai.ac.jp/about/contribute/index.html",
+"Description" :" 生涯学習・地域連携"},
+
+{"link" :" https://www.dendai.ac.jp/about/contribute/extention/extention.html",
+"Description" : "科目等履修生・公開科目"},
+
+{"link ": "https://www.dendai.ac.jp/about/contribute/admission.html",
+"Description ": "社会人入試"},
+
+{"link ":"https://www.dendai.ac.jp/about/contribute/local/local.html",
+"Description" :" 地域連携"},
+
+{"link" :" https://www.dendai.ac.jp#/about/contribute/risyu/index.html",
+"Description" : "実践知プログラム（履修証明制度）"},
+
+{"link" : "https://www.dendai.ac.jp#/prospective-students/",
+"Description" : "受験生・高校生の方"},
+
+{"link" : "https://www.dendai.ac.jp#/students/",
+"Description" : "在学生・保護者の方"},
+
+{"link" : "https://www.dendai.ac.jp#/alumni/",
+"Description" : "卒業生の方"},
+
+{"link" : "https://www.dendai.ac.jp#/companies/",
+"Description" : "企業・研究機関の方"},
+
+{"link ":"https://www.dendai.ac.jp#/generals/",
+"Description" : "一般・地域の方"},
+
+{"link" : "https://www.dendai.ac.jp#/contact/",
+"Description" :" お問い合わせ先一覧"},
+
+{"link" : "https://www.dendai.ac.jp#/en/",
+"Description" :" ENGLISH"},
+
+{"link" : "https://www.dendai.ac.jp#/ch/",
+"Description ": "中文(簡体字)"},
+
+{"link" : "https://www.dendai.ac.jp#", 
+"Description" : "閉じる"},
+
+{"link" : "https://www.dendai.ac.jp/special2019/step/",
+"Description ": },
+
+{"link ": "https://phronesis.dendai.ac.jp",
+"Description ": "工学部第二部(夜間部)社会人課程 働きながら、磨く実践知 詳しくはこちら"},
+
+{"link" : "https://www.dendai.ac.jp/special2019/rengo_douga_grandprix/index.html",
+"Description" : },
+
+{"link" : "https://www.dendai.ac.jp##",
+"Description ": "prev"},
+
+{"link" : "https://www.dendai.ac.jp##",
+"Description" :" next"},
+
+{"link ":" https://www.dendai.ac.jp##",
+"Description" : "リスト表示"},
+
+{"link" : "https://www.dendai.ac.jp##",
+"Description" : "パネル表示"},
+
+{"link" : "https://www.dendai.ac.jp#/dendai-people/20181215-01.html",
+"Description" :" 成果 2018.12.15 情報環境学科の西垣さん、河西さんが「Sigfoxで生活を楽しくするIoTアイデアコンテスト」プロトタイプ部門で受賞"},
+
+{"link" : "https://www.dendai.ac.jp#/dendai-people/20181212-01.html",
+"Description" : "学会 2018.12.12 卒業生 松高さんの論文が「デジタル・フォレンジック若手研究者優秀賞」を受賞"},
+
+{"link" : "https://www.dendai.ac.jp#/dendai-people/20181211-02.html",
+"Description" : "功労 2018.12.11 本学理事長が海上保安庁長官から感謝状"},
+
+{"link" : "https://www.dendai.ac.jp#/dendai-people/20181210-01.html",
+"Description" :" 国際学会 2018.12.10 建築学科 能作准教授が「ISAIA 2018」にてExcellent Research Awardを受賞"},
+
+{"link" : "https://www.dendai.ac.jp#/dendai-people/20181130-01.html",
+"Description" :" 学会 2018.11.30 建築・都市環境学系 清水さんが「日本写真測量学会 平成30年度秋季学術講演会」で論文賞を受賞"},
+
+{"link" : "https://www.dendai.ac.jp#/dendai-people/20181128-01.html",
+"Description" :" 学会 2018.11.28 情報システム工学科 宮保教授、鈴木教授、上野教授、情報環境学科 齊藤さん、篠原さん、柳澤さんの論文が「情報セキュリティに関する懸賞論文」優秀賞を受賞"},
+
+{"link" : "https://www.dendai.ac.jp#/dendai-people/20181121-01.html",
+"Description ": "学会 2018.11.21 情報環境学科 安部さん、阿部さん、鈴木さん、林さん、武藤さんのチームが、GPS・QZSSロボットカーコンテスト2018で準優勝"},
+
+{"link" :" https://www.dendai.ac.jp#/dendai-people/20181115-02.html",
+"Description" : "成果 2018.11.15 情報通信工学科 末吉さんがLearnPress脆弱性を発見しIPAへ報告しました"},
+
+{"link" : "https://www.dendai.ac.jp#/dendai-people/20181115-01.html",
+"Description" :" 成果 2018.11.15 情報通信工学科 北岡さんがEvent Calendar WDの脆弱性を発見しIPAへ報告しました"},
+
+{"link" : "https://www.dendai.ac.jp##",
+"Description" : "前の3件"},
+
+{"link" : "https://www.dendai.ac.jp##",
+"Description ": "次の3件"},
+
+{"link" : "https://www.dendai.ac.jp#/dendai-people/index.html",
+"Description" : "一覧を見る"},
+
+{"link ": "https://www.dendai.ac.jp##",
+"Description" : "すべて"},
+
+{"link" : "https://www.dendai.ac.jp##",
+"Description ": "入試・オープンキャンパス入試・OC"},
+
+{"link" : "https://www.dendai.ac.jp##",
+"Description" :" トピックス"},
+
+{"link" : "https://www.dendai.ac.jp##",
+"Description ": "ニュースリリースニュース リリース"},
+
+{"link" : "https://www.dendai.ac.jp##",
+"Description" : "メディア掲載メディア 掲載"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181217-01.html",
+"Description" : "2018.12.17 大学 「第1回 電大動画グランプリ」受賞作品を決定"},
+
+{"link" :" https://www.dendai.ac.jp#/news/20181215-01.html",
+"Description" :" 2018.12.15 大学 【一般・センター利用入試】調査書の提出枚数に関して"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181214-04.html",
+"Description" : "2018.12.14 大学 国際センター 近藤特別専任教授が「日経産業新聞」に掲載"},
+
+{"link" :" https://www.dendai.ac.jp#/news/20181214_02.html",
+"Description" : "2018.12.14 その他 学園広報誌「TDU Agora」第16号発行"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181214-01.html",
+"Description" : "2018.12.14 工学部第二部 「第2回 実践知重点課程フォーラム」を開催(定員150名/無料)"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181214-03.html",
+"Description" : "2018.12.14 大学 秋の火災予防運動で本学職員が表彰されました"},
+
+{"link" :" https://www.dendai.ac.jp#/news/20181213-01.html",
+"Description ": "2018.12.13 大学 公募制推薦入試 合格発表日のお知らせ"},
+
+{"link ": "https://www.dendai.ac.jp#/news/20181212-01.html",
+"Description" : "2018.12.12 未来科学部 国際学会IEEE次期会長 福田敏男氏のイブニングセミナー(1/10・無料)"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181210-01.html",
+"Description" :" 2018.12.10 大学 『一般入試過去問題』3年分無料送付します！"},
+
+{"link ": "https://www.dendai.ac.jp#/news/20181206-03.html"
+"Description" : "2018.12.06 埼玉鳩山 天体観測会「大学で星を見てみよう」開催（12/21・無料）"},
+
+{"link" : "https://www.dendai.ac.jp/event/20181115-02.html",
+"Description" : "2018.12.06 工学部 「SEMICON JAPAN」 出展！（12/12～14）"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181206-01.html",
+"Description" : "2018.12.06 理工学部 公募制推薦入試　埼玉鳩山キャンパスへのスクールバスのご案内"},
+
+{"link ": "https://www.dendai.ac.jp#/news/20181128-01.html",
+"Description" : "2018.12.05 埼玉鳩山 フォーミュラSAEプロジェクトがオーストラリアに遠征"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181203-01.html",
+"Description" : "2018.12.03 工学部第二部 2019年度前期　実践知プログラム（履修証明制度）募集要項の配布を開始しました"},
+
+{"link ": "https://www.dendai.ac.jp#/news/20181201-01.html",
+"Description ": "2018.12.01 大学 奨学金のお知らせ：一般入試（前期）受験生対象"},
+
+{"link ":" https://www.dendai.ac.jp##",
+"Description" :" 前の5件"},
+
+{"link" : "https://www.dendai.ac.jp##",
+"Description ": "次の5件"},
+
+{"link" : "https://www.dendai.ac.jp#/news/index.html",
+"Description" :" 一覧を見る"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181215-01.html",
+"Description : 2018.12.15 大学 【一般・センター利用入試】調査書の提出枚数に関して"},
+
+{"link ": "https://www.dendai.ac.jp#/news/20181213-01.html",
+"Description" : "2018.12.13 大学 公募制推薦入試 合格発表日のお知らせ"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181210-01.html",
+"Description" : "2018.12.10 大学 『一般入試過去問題』3年分無料送付します！"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181206-01.html",
+"Description" : "2018.12.06 理工学部 公募制推薦入試　埼玉鳩山キャンパスへのスクールバスのご案内"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181201-01.html",
+"Description" : "2018.12.01 大学 奨学金のお知らせ：一般入試（前期）受験生対象"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181130-01.html"},
+"Description" :" 2018.11.30 工学部第二部 社会人特別選抜入学試験・社会人編入学試験 合格発表日のお知らせ"},
+
+{"link ":"https://www.dendai.ac.jp#/news/20181126-01.html",
+"Description ": "2018.11.26 大学 【一般・センター利用入試】よくあるご質問と回答ページ公開のお知らせ"},
+
+{"link" : "https://www.dendai.ac.jp#/news/20181120-01.html",
+"Description" :" 2018.11.20 大学 【一般入試】サテライト会場（地方入試会場）のお知らせ"},
+
+{"link ": "https://www.dendai.ac.jp#/news/20181119-01.html",
+"Description" : "2018.11.19 大学 公募制推薦入試 出願期間のお知らせ"},
+
+link : https://www.dendai.ac.jp#/news/20181115-01.html
+Description : 2018.11.15 理工学部 指定校推薦入試 埼玉鳩山キャンパスへのスクールバスのご案内
+
+link : https://www.dendai.ac.jp#/news/20181109-01.html
+Description : 2018.11.09 大学 【一般・センター利用入試】インターネット出願 概要ページ公開のお知らせ
+
+link : https://www.dendai.ac.jp#/news/20181025-01.html
+Description : 2018.10.25 大学 東京電機大学が参加する進学相談会のお知らせ（11月開催分）
+
+link : https://www.dendai.ac.jp#/news/20181022-01.html
+Description : 2018.10.22 大学 11月3日・4日 大学進学相談会 開催のお知らせ
+
+link : https://www.dendai.ac.jp#/news/20181016-01.html
+Description : 2018.10.16 大学 【大学入試】一般・センター利用入試 入学試験要項 資料請求受付開始のお知らせ
+
+link : https://www.dendai.ac.jp#/news/20181011-01.html
+Description : 2018.10.11 理工学部 編入学試験 埼玉鳩山キャンパスへのスクールバスのご案内
+
+link : https://www.dendai.ac.jp#
+Description : 前の5件
+
+link : https://www.dendai.ac.jp#
+Description : 次の5件
+
+link : https://www.dendai.ac.jp/news/index.html
+Description : 一覧を見る
+
+link : https://www.dendai.ac.jp/news/20181214_02.html
+Description : 2018.12.14 その他 学園広報誌「TDU Agora」第16号発行
+
+link : https://www.dendai.ac.jp/news/20181214-03.html
+Description : 2018.12.14 大学 秋の火災予防運動で本学職員が表彰されました
+
+link : https://www.dendai.ac.jp/event/20181115-02.html
+Description : 2018.12.06 工学部 「SEMICON JAPAN」 出展！（12/12～14）
+
+link : https://www.dendai.ac.jp/news/20181128-01.html
+Description : 2018.12.05 埼玉鳩山 フォーミュラSAEプロジェクトがオーストラリアに遠征
+
+link : https://www.dendai.ac.jp/news/20181203-01.html
+Description : 2018.12.03 工学部第二部 2019年度前期　実践知プログラム（履修証明制度）募集要項の配布を開始しました
+
+link : https://www.dendai.ac.jp/news/20181126_02.html
+Description : 2018.11.26 その他 学園広報誌「TDU Agora」第15号発行
+
+link : https://www.dendai.ac.jp/crc/tlo/me/tdu_remotemainte_conf.html
+Description : 2018.11.22 東京千住 第7回 AI活用リモートメンテナンス研究会を開催いたします(12/19)
+
+link : https://www.dendai.ac.jp/news/20181121-01.html
+Description : 2018.11.21 東京千住 東京電機大学生協にて「出版局移転記念フェア」開催！
+
+link : https://www.dendai.ac.jp/event/20181115-01.html
+Description : 2018.11.15 工学部 日本計量史学会４０周年で西方教授が本学電気教育の歴史を講演
+
+link : https://www.dendai.ac.jp/news/20181109-02.html
+Description : 2018.11.09 未来科学部 情報メディア学科 猪俣教授が、足立区情報公開・個人情報保護審議会委員に就任
+
+link : https://www.dendai.ac.jp/news/20181106-01.html
+Description : 2018.11.06 工学部 工学部 先端機械工学科 三井教授が共同開発に参加するリバビリテーション機器が日本神経理学療法学会学術大会で出展（11/10～11）
+
+link : https://www.dendai.ac.jp/news/20181031-01.html
+Description : 2018.10.31 システムデザイン工学部 情報システム工学科 小川教授、宮保教授、情報環境学専攻吉村さんの研究が国際会議に採録されました
+
+link : https://www.dendai.ac.jp/news/20181030-02.html
+Description : 2018.10.30 大学 大学生協にてTDU ネクタイピン販売中
+
+link : https://www.dendai.ac.jp/news/20181029-03.html
+Description : 2018.10.29 大学 情報セキュリティ国際会議「CODE BLUE」開催（10/29～11/2）
+
+link : https://www.dendai.ac.jp/news/20181024-02.html
+Description : 2018.10.24 埼玉鳩山 埼玉鳩山キャンパス図書閲覧室にPepper『ポッポ君』登場・アクティブラーニングゾーンも開設
+
+link : https://www.dendai.ac.jp#
+Description : 前の5件
+
+link : https://www.dendai.ac.jp#
+Description : 次の5件
+
+link : https://www.dendai.ac.jp/news/index.html
+Description : 一覧を見る
+
+link : https://www.dendai.ac.jp/news/20181217-01.html
+Description : 2018.12.17 大学 「第1回 電大動画グランプリ」受賞作品を決定
+
+link : https://www.dendai.ac.jp/news/20181214-01.html
+Description : 2018.12.14 工学部第二部 「第2回 実践知重点課程フォーラム」を開催(定員150名/無料)
+
+link : https://www.dendai.ac.jp/news/20181212-01.html
+Description : 2018.12.12 未来科学部 国際学会IEEE次期会長 福田敏男氏のイブニングセミナー(1/10・無料)
+
+link : https://www.dendai.ac.jp/news/20181206-03.html
+Description : 2018.12.06 埼玉鳩山 天体観測会「大学で星を見てみよう」開催（12/21・無料）
+
+link : https://www.dendai.ac.jp/event/20181127-01.html
+Description : 2018.11.27 東京千住 『最新の防災対策と自治体、研究機関の取組み』（12/14・無料）
+
+link : https://www.dendai.ac.jp/news/20181116-03.html
+Description : 2018.11.16 大学 平成30年度「東京電機大学学術振興基金 『教育賞』・『教育奨励賞』」を決定
+
+link : https://www.dendai.ac.jp/news/20181115-02.html
+Description : 2018.11.15 大学 「理科（サイエンス）サークルフェスタ2018」開催(12/9・無料)
+
+link : https://www.dendai.ac.jp/news/20181113-01.html
+Description : 2018.11.13 大学 “ボードゲームを活用した英語授業 ”
+
+link : https://www.dendai.ac.jp/event/20181108-01.html
+Description : 2018.11.08 東京千住 『アブダクション』～ 仮説生成する脳型人工知能へ向けて ～ （11/29・無料）
+
+link : https://www.dendai.ac.jp/event/20180925-01.html
+Description : 2018.10.26 東京千住 「オルセー美術館リマスターアート展」開催 (10/23～11/4・無料)
+
+link : https://www.dendai.ac.jp/event/20181017-01.html
+Description : 2018.10.17 埼玉鳩山 第42回「鳩山祭」(11/3・4)
+
+link : https://www.dendai.ac.jp/event/20181016-01.html
+Description : 2018.10.16 東京千住 第7回「旭祭」開催(11/3・4)
+
+link : https://www.dendai.ac.jp/event/20181011-01.html
+Description : 2018.10.11 その他 公開講演会「沖縄で想定されている地震被害とその対策について」（11/10・無料）
+
+link : https://www.dendai.ac.jp/event/20180928-01.html
+Description : 2018.09.28 東京千住 公開講演会「東京オリ・パラ後の日本V字回復に向けて」（10/18・無料）
+
+link : https://www.dendai.ac.jp/news/20180927-01.html
+Description : 2018.09.27 大学 東京東信用金庫と包括連携協定を締結(10/4協定締結式)
+
+link : https://www.dendai.ac.jp#
+Description : 前の5件
+
+link : https://www.dendai.ac.jp#
+Description : 次の5件
+
+link : https://www.dendai.ac.jp/news/index.html
+Description : 一覧を見る
+
+link : https://www.dendai.ac.jp/news/20181214-04.html
+Description : 2018.12.14 大学 国際センター 近藤特別専任教授が「日経産業新聞」に掲載
+
+link : https://www.dendai.ac.jp/news/20181129-01.html
+Description : 2018.11.29 大学 本日開催CRCフォーラムが「ニコニコ生放送」にて放送（11/29・17時スタート）
+
+link : https://www.dendai.ac.jp/news/20181121-03.html
+Description : 2018.11.21 大学 総合研究所 佐々木特命教授が「日本経済新聞」に掲載
+
+link : https://www.dendai.ac.jp/news/20181121-02.html
+Description : 2018.11.21 工学部 機械工学科 松村教授が「日刊工業新聞」に掲載
+
+link : https://www.dendai.ac.jp/news/20181115-04.html
+Description : 2018.11.15 理工学部 情報システムデザイン学系 矢口准教授の「エルゴノミクスデザイン研究室」が文化通信に掲載
+
+link : https://www.dendai.ac.jp/news/20181108-01.html
+Description : 2018.11.08 工学部第二部 工学部第二部電気電子工学科 吉田さんが朝日新聞に掲載
+
+link : /news/20181107-02.html
+Description : 2018.11.07 システムデザイン工学部 デザイン工学科 武川教授の研究が「東京新聞」に掲載
+
+link : https://www.dendai.ac.jp/news/20181101-01.html
+Description : 2018.11.02 理工学部 共通教育群 山本助教が「教育新聞」に連載中
+
+link : https://www.dendai.ac.jp/news/20181029-04.html
+Description : 2018.10.29 大学 脇名誉教授が「東洋経済オンライン」に掲載
+
+link : https://www.dendai.ac.jp/news/20181024-01.html
+Description : 2018.10.24 大学 脇名誉教授が「東洋経済オンライン」に掲載
+
+link : https://www.dendai.ac.jp/news/20181022-04.html
+Description : 2018.10.22 大学 安田進名誉教授が「読売新聞」「毎日新聞」に掲載
+
+link : https://www.dendai.ac.jp/news/20181022-02.html
+Description : 2018.10.22 大学 日本経済新聞で本学オープンキャンパスの広報が紹介
+
+link : https://www.dendai.ac.jp/news/20181019-01.html
+Description : 2018.10.19 大学 東京千住キャンパス建物に設置されているオイルダンパーについて
+
+link : https://www.dendai.ac.jp/news/20181016-02.html
+Description : 2018.10.16 卒業生 卒業生 中村さん（バリューブックス社長）が「朝日新聞 天声人語」 に掲載
+
+link : https://www.dendai.ac.jp/news/20181012-03.html
+Description : 2018.10.12 未来科学部 情報メディア学科 猪俣教授が「Security Online」に掲載
+
+link : https://www.dendai.ac.jp#
+Description : 前の5件
+
+link : https://www.dendai.ac.jp#
+Description : 次の5件
+
+link : https://www.dendai.ac.jp/news/index.html
+Description : 一覧を見る
+
+link : https://www.dendai.ac.jp/event/20181214-01.html
+Description : 01. 26 Sat 第2回実践知重点課程フォーラムの開催 場 所 東京電機大学　東京千住キャンパス フォーラム
+
+link : https://www.dendai.ac.jp/event/20181212-01.html
+Description : 01. 10 Thu 国際学会IEEE次期会長 福田敏男氏のイブニングセミナー(1/10・無料) 場 所 東京千住キャンパス 1号館2階 丹羽ホール セミナー
+
+link : https://www.dendai.ac.jp/event/20181206-01.html
+Description : 12. 21 Fri 天体観測会「大学で星を見てみよう」開催 場 所 埼玉鳩山キャンパス 地域・社会
+
+link : https://www.dendai.ac.jp/event/20181122-01.html
+Description : 12. 19 Wed 「東京電機大学 AI活用リモートメンテナンス研究会第7回会合」を開催致します(12/19) 場 所 東京電機大学 セミナー
+
+link : https://www.dendai.ac.jp/event/20180904-02.html
+Description : 12. 08 Sat 12. 22 Sat 工学部第二部実践知セミナー「ものづくり宿場町Part2」 場 所 東京千住キャンパス 5号館4階　5404教室 セミナー
+
+link : https://www.dendai.ac.jp#
+Description : 前の6件
+
+link :https://www.dendai.ac.jp #
+Description : 次の6件
+
+link : https://www.dendai.ac.jp/event/
+Description : 一覧を見る
+
+link : https://www.dendai.ac.jp/access/tokyo_senju.html
+Description : 交通アクセス
+
+link : https://www.dendai.ac.jp/about/tdu/campus/tokyo_senju.html
+Description : キャンパス案内
+
+link : https://www.dendai.ac.jp/about/undergraduate/system_design/
+Description : システムデザイン工学部
+
+link : https://www.dendai.ac.jp/about/undergraduate/system_design/aj/
+Description : 情報システム工学科
+
+link : https://www.dendai.ac.jp/about/undergraduate/system_design/ad/
+Description : デザイン工学科
+
+link : https://www.dendai.ac.jp/about/undergraduate/mirai_kagaku/
+Description : 未来科学部
+
+link : https://www.dendai.ac.jp/about/undergraduate/mirai_kagaku/fa/
+Description : 建築学科
+
+link : https://www.dendai.ac.jp/about/undergraduate/mirai_kagaku/fi/
+Description : 情報メディア学科
+
+link : https://www.dendai.ac.jp/about/undergraduate/mirai_kagaku/fr/
+Description : ロボット・メカトロニクス学科
+
+link : https://www.dendai.ac.jp/about/undergraduate/kougaku/
+Description : 工学部
+
+link : https://www.dendai.ac.jp/about/undergraduate/kougaku/ej/
+Description : 電気電子工学科
+
+link : /about/undergraduate/kougaku/eh/
+Description : 電子システム工学科
+
+link : https://www.dendai.ac.jp/about/undergraduate/kougaku/es/
+Description : 応用化学科
+
+link : https://www.dendai.ac.jp/about/undergraduate/kougaku/ek/
+Description : 機械工学科
+
+link : https://www.dendai.ac.jp/about/undergraduate/kougaku/ef/
+Description : 先端機械工学科
+
+link : https://www.dendai.ac.jp/about/undergraduate/kougaku/ec/
+Description : 情報通信工学科
+
+link : https://www.dendai.ac.jp/about/undergraduate/kougaku2/
+Description : 工学部第二部（夜間部）
+
+link : https://www.dendai.ac.jp/about/undergraduate/kougaku2/ne/
+Description : 電気電子工学科
+
+link : https://www.dendai.ac.jp/about/undergraduate/kougaku2/nm/
+Description : 機械工学科
+
+link :https://www.dendai.ac.jp/about/undergraduate/kougaku2/nc/
+Description : 情報通信工学科
+
+link : https://www.dendai.ac.jp/about/undergraduate/jyouhou_kankyou/
+Description : 情報環境学部
+
+link : https://www.dendai.ac.jp/about/undergraduate/jyouhou_kankyou/jn/
+Description : ネットワーク・コンピュータ工学コース
+
+link : https://www.dendai.ac.jp/about/undergraduate/jyouhou_kankyou/jd/
+Description : デジタル情報工学コース
+
+link : https://www.dendai.ac.jp/about/undergraduate/jyouhou_kankyou/js/
+Description : 建築デザインコース
+
+link : https://www.dendai.ac.jp/about/undergraduate/jyouhou_kankyou/jc/
+Description : コミュニケーション工学コース
+
+link : https://www.dendai.ac.jp/about/graduate/
+Description : 大学院
+
+link : https://www.dendai.ac.jp/about/graduate/mirai_kagaku/
+Description : 未来科学研究科（修士課程）
+
+link : https://www.dendai.ac.jp/about/graduate/kougaku/
+Description : 工学研究科（修士課程）
+
+link : https://www.dendai.ac.jp/about/graduate/jyouhou_kankyou/
+Description : 情報環境学研究科（修士課程）
+
+link : https://www.dendai.ac.jp/about/graduate/sentan_kagaku_gijyutu/
+Description : 先端科学技術研究科（博士課程(後期)）
+
+link : https://www.dendai.ac.jp/access/saitama_hatoyama.html
+Description : 交通アクセス
+
+link : https://www.dendai.ac.jp/about/tdu/campus/saitama_hatoyama.html
+Description : キャンパス案内
+
+link : https://www.dendai.ac.jp/about/undergraduate/rikougaku/
+Description : 理工学部
+
+link : https://www.dendai.ac.jp/about/undergraduate/rikougaku/ru/
+Description : 理学系
+
+link : https://www.dendai.ac.jp/about/undergraduate/rikougaku/rb/
+Description : 生命科学系
+
+link : https://www.dendai.ac.jp/about/undergraduate/rikougaku/rd/
+Description : 情報システムデザイン学系
+
+link : https://www.dendai.ac.jp/about/undergraduate/rikougaku/denshi/
+Description : 電子工学系
+
+link : https://www.dendai.ac.jp/about/undergraduate/rikougaku/kikai/
+Description : 機械工学系
+
+link : https://www.dendai.ac.jp/about/undergraduate/rikougaku/rg/
+Description : 建築・都市環境学系
+
+link : https://www.dendai.ac.jp/about/graduate/
+Description : 大学院
+
+link : https://www.dendai.ac.jp/about/graduate/rikougaku/
+Description : 理工学研究科（修士課程）
+
+link : https://www.dendai.ac.jp/about/graduate/sentan_kagaku_gijyutu/
+Description : 先端科学技術研究科（博士課程(後期)）
+
+link : https://portal.sa.dendai.ac.jp/up/faces/login/Com00501A.jsp
+Description : 在学生向けポータルサイト DENDAI-UNIPA
+
+link : https://www.dendai.ac.jp/crc/
+Description : 研究推進社会連携センター
+
+link : https://www.dendai.ac.jp/crc/kenkyu/db/index.html
+Description : 研究者情報DB
+
+link : https://www.mrcl.dendai.ac.jp/
+Description : 総合メディアセンター
+
+link : http://top.dendai.ac.jp/bems/index.html
+Description : 東京千住キャンパス 省CO2キャンパスの取り組み
+
+link : https://cysec.dendai.ac.jp/
+Description : CySec 国際化サイバーセキュリティ学特別コース
+
+link : /about/tdu/information/index.html
+Description : 東京電機大学の情報公開
+
+link : /about/gakuen/foundation/index.html
+Description : サポート募金ご協力のお願い
+
+link : https://www.dendai.ac.jp/about/gakuen/publicity/download/
+Description : 東京電機大学 学園創立110周年記念冊子
+
+link : https://www.csirt.dendai.ac.jp/csirt/
+Description : 情報セキュリティ対応・対策窓口 TDU-CSIRT
+
+link : https://phronesis.dendai.ac.jp
+Description : 社会人課程(実践知重点課程)
+
+link : https://www.dendai.ac.jp/about/tdu/activities/branding/index.html
+Description : 私立大学研究ブランディング事業
+
+link : https://www.ir.dendai.ac.jp/
+Description : IRセンター
+
+link : http://www.mono.dendai.ac.jp/
+Description : ものづくりセンター
+
+link : https://www.dendai.ac.jp/about/campuslife/tokyo2020/index.html
+Description : 東京2020オリンピック・パラリンピック競技大会に向けて
+
+link : https://www.tjup.taibokudo.jp/
+Description : TJUP埼玉県東上地域大学教育プラットフォーム
+
+link : https://www.dendai.ac.jp/about/tdu/index.html
+Description : 大学紹介
+
+link : https://www.dendai.ac.jp/about/tdu/outline/index.html
+Description : 基本情報
+
+link : https://www.dendai.ac.jp/about/tdu/president/index.html
+Description : 学長ご挨拶
+
+link : https://www.dendai.ac.jp/about/tdu/vice-president/index.html
+Description : 副学長・学長補佐等 役職者
+
+link : https://www.dendai.ac.jp/about/tdu/mission/index.html
+Description : 建学の精神と教育・研究理念
+
+link : https://www.dendai.ac.jp/about/tdu/policies/index.html
+Description : 東京電機大学大学院・大学の３つのポリシー
+
+link : https://www.dendai.ac.jp/about/tdu/history/index.html
+Description : 大学のあゆみ
+
+link : https://www.dendai.ac.jp/about/tdu/activities/index.html
+Description : 大学の取り組み
+
+link : /about/tdu/information/index.html
+Description : 情報公開
+
+link : https://www.dendai.ac.jp/about/tdu/valuation/index.html
+Description : 認証評価、自己点検・評価
+
+link : https://www.dendai.ac.jp/about/tdu/homecoming/index.html
+Description : ホームカミングデー
+
+link : https://www.dendai.ac.jp/about/tdu/model.html
+Description : 東京電機大学が求める教員像
+
+link : https://www.dendai.ac.jp/about/tdu/facility/index.html
+Description : 教育関係附置施設
+
+link : https://www.dendai.ac.jp/about/tdu/campus/index.html
+Description : キャンパス紹介
+
+link : https://www.dendai.ac.jp/about/gakuen/index.html
+Description : 学園紹介
+
+link : https://www.dendai.ac.jp/about/gakuen/outline/index.html
+Description : 学校法人東京電機大学概要
+
+link : https://www.dendai.ac.jp/about/gakuen/chairperson/index.html
+Description : 理事長挨拶
+
+link : https://www.dendai.ac.jp/about/gakuen/trustee/index.html
+Description : 理事・監事
+
+link : /about/gakuen/governance/index.html
+Description : ガバナンス体制
+
+link : https://www.dendai.ac.jp/about/gakuen/jigyo/index.html
+Description : 事業・財務情報
+
+link : https://www.dendai.ac.jp/about/gakuen/100years/index.html
+Description : 学園創立100周年宣言
+
+link : https://www.dendai.ac.jp/about/gakuen/publicity/index.html
+Description : 学園広報物
+
+link : https://www.dendai.ac.jp/about/gakuen/institutions/index.html
+Description : 系列校・関連機関
+
+link : https://www.dendai.ac.jp/about/gakuen/foundation/index.html
+Description : 学園へのご寄付
+
+link : https://www.dendai.ac.jp/about/gakuen/model/index.html
+Description : 学校法人東京電機大学が求める事務・技術職員像
+
+link : https://www.dendai.ac.jp/about/gakuen/tdu110th/index.html
+Description : 学園創立110周年記念事業
+
+link : https://www.dendai.ac.jp/about/undergraduate/index.html
+Description : 学部
+
+link : https://www.dendai.ac.jp/about/undergraduate/system_design/index.html
+Description : システムデザイン工学部
+
+link : https://www.dendai.ac.jp/about/undergraduate/mirai_kagaku/index.html
+Description : 未来科学部
+
+link : https://www.dendai.ac.jp/about/undergraduate/kougaku/index.html
+Description : 工学部
+
+link : https://www.dendai.ac.jp/about/undergraduate/kougaku2/index.html
+Description : 工学部第二部
+
+link : https://www.dendai.ac.jp/about/undergraduate/rikougaku/index.html
+Description : 理工学部
+
+link : https://www.dendai.ac.jp/about/undergraduate/jyouhou_kankyou/index.html
+Description : 情報環境学部
+
+link : https://www.dendai.ac.jp/about/graduate/index.html
+Description : 大学院
+
+link : https://www.dendai.ac.jp/about/graduate/outline/index.html
+Description : 大学院での学び
+
+link : https://www.dendai.ac.jp/about/graduate/sentan_kagaku_gijyutu/index.html
+Description : 先端科学技術研究科
+
+link : https://www.dendai.ac.jp/about/graduate/mirai_kagaku/index.html
+Description : 未来科学研究科
+
+link : https://www.dendai.ac.jp/about/graduate/kougaku/index.html
+Description : 工学研究科
+
+link : https://www.dendai.ac.jp/about/graduate/rikougaku/index.html
+Description : 理工学研究科
+
+link : https://www.dendai.ac.jp/about/graduate/jyouhou_kankyou/index.html
+Description : 情報環境学研究科
+
+link : https://www.dendai.ac.jp/about/admission/index.html
+Description : 入試・オープンキャンパス
+
+link : https://www.dendai.ac.jp/about/admission/undergraduate/index.html
+Description : 大学入試
+
+link : https://www.dendai.ac.jp/about/admission/graduate/index.html
+Description : 大学院入試
+
+link : https://www.dendai.ac.jp/about/admission/internet_syutsugan/index.html
+Description : インターネット出願
+
+link : https://www.dendai.ac.jp/about/admission/youkou/index.html
+Description : 入学試験要項一覧
+
+link : https://www.dendai.ac.jp/about/admission/nyushi_data/index.html
+Description : 入試結果
+
+link : https://www.dendai.ac.jp/about/admission/opencampus/index.html
+Description : オープンキャンパス2018
+
+link : https://www.dendai.ac.jp/about/admission/shingaku_soudankai/2018.html
+Description : 大学進学相談会2018（学園祭同時開催）
+
+link : https://www.dendai.ac.jp/about/admission/shingaku_soudankai/index.html
+Description : 進学相談会
+
+link : https://www.dendai.ac.jp/about/admission/kengaku/index.html
+Description : キャンパス見学
+
+link : https://www.dendai.ac.jp/about/admission/mail_magazine/index.html
+Description : メールマガジン
+
+link : https://www.dendai.ac.jp/about/admission/tdu/index.html
+Description : ざっくりまとめました！ 東京電機大学の7つのこと
+
+link : https://www.dendai.ac.jp/about/career/index.html
+Description : 就職・キャリア支援
+
+link : https://www.dendai.ac.jp/about/career/gakunai/index.html
+Description : 学内専用サイト
+
+link : https://www.dendai.ac.jp/about/career/outline.html
+Description : キャリア教育
+
+link : https://www.dendai.ac.jp/about/career/support/support.html
+Description : 就職・キャリア支援制度
+
+link : https://www.dendai.ac.jp/about/career/internship.html
+Description : インターンシップ
+
+link : https://www.dendai.ac.jp/about/career/voice.html
+Description : 内定者の声
+
+link : https://www.dendai.ac.jp/about/career/interview/interview.html
+Description : 卒業生インタビュー
+
+link : https://www.dendai.ac.jp/about/career/job.html
+Description : 就職実績
+
+link : https://www.dendai.ac.jp/about/career/qualification/qualification.html
+Description : 資格取得・教員免許
+
+link : https://www.dendai.ac.jp/about/career/recruit/recruit.html
+Description : 採用ご担当者の皆様へ
+
+link : https://www.dendai.ac.jp/about/international/index.html
+Description : 留学・国際交流
+
+link : https://www.dendai.ac.jp/about/international/welcome/ryugaku.html
+Description : 本学へ留学希望の方
+
+link : https://www.dendai.ac.jp/about/international/welcome/index01.html
+Description : 本学へ留学希望の方(最新TOPICS)
+
+link : https://www.dendai.ac.jp/about/international/abroad/study_abroad_program.html
+Description : 海外に留学希望の方
+
+link : https://www.dendai.ac.jp/about/international/abroad/index01.html
+Description : 海外に留学希望の方(最新TOPICS)
+
+link : https://www.dendai.ac.jp/about/international/center.html
+Description : 国際センター
+
+link : https://www.dendai.ac.jp/about/international/gakunai.html/kokunai.html
+Description : 国内でできる国際交流
+
+link : https://www.dendai.ac.jp/about/campuslife/index.html
+Description : 学生生活
+
+link : https://www.dendai.ac.jp/about/campuslife/youran/index.html
+Description : 学生要覧
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/risyuu/index.html",
+"Description" : "履修の手引き"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/kyoushoku/index.html",
+"Description" : "教職課程"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/syllabus/index.html"},
+"Description" : "シラバス・時間割"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/schedule.html",
+"Description" : "年間予定"},
+
+{"link" :" https://www.dendai.ac.jp/about/campuslife/study_support/index.html",
+"Description": "学習サポートセンター"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/advisor.html",
+"Description" : "学生アドバイザー"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/other/index.html",
+"Description" : "その他授業関係"},
+
+{"link" :" https://www.dendai.ac.jp/about/campuslife/expenses/index.html",
+"Description" :" 学費"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/scholarship.html",
+"Description" : "奨学金"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/loan/index.html",
+"Description ":" 教育ローン・短期貸与金制度"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/life_support/index.html",
+"Description" :" 保険制度・経費補助"},
+
+{"link ": "https://www.dendai.ac.jp/about/campuslife/office/index.html",
+"Description" :" 証明書発行・事務窓口"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/counseling/index.html",
+"Description" :" 学生相談室・健康相談室"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/kyuugaku_taigaku.html",
+"Description" : "休学・退学などについて"},
+
+{"link" :" https://www.dendai.ac.jp/about/campuslife/club/index.html",
+"Description" : "クラブ・サークル活動"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/dinning_hall/index.html",
+"Description" : "学生食堂と売店"},
+
+{"link ": "https://www.dendai.ac.jp/about/campuslife/car/index.html",
+"Description" :" 車両通学"},
+
+{"link" : "https://www.dendai.ac.jp/about/campuslife/tokyo2020/index.html",
+"Description" : "東京2020オリンピック・パラリンピック競技大会に向けた東京電機大学の取り組み"},
+
+{"link" : "https://www.dendai.ac.jp/about/research/index.html",
+"Description" : "研究・産官学連携"},
+
+{"link ": "https://www.dendai.ac.jp/about/research/info.html",
+"Description" :" 研究情報"},
+
+{"link" :" https://www.dendai.ac.jp/about/research/other/index.html",
+"Description ": "研究支援、研究員・研究生"},
+
+{"link" : "https://www.dendai.ac.jp/about/contribute/index.html",
+"Description" : "生涯学習・地域連携"},
+
+{"link" :" https://www.dendai.ac.jp/about/contribute/extention/extention.html",
+"Description" : "科目等履修生・公開科目"},
+
+{"link" : "https://www.dendai.ac.jp/about/contribute/admission.html",
+"Description" : "社会人入試"},
+
+{"link" : "https://www.dendai.ac.jp/about/contribute/local/local.html",
+"Description" : "地域連携"},
+
+{"link" : "https://www.dendai.ac.jp/about/contribute/risyu/index.html",
+"Description" :" 実践知プログラム（履修証明制度）"},
+
+{"link" : "https://www.dendai.ac.jp/access/index.html",
+"Description ": "交通案内"},
+
+{"link" : "https://www.dendai.ac.jp/access/tokyo_senju.html",
+"Description" : "交通案内（東京千住キャンパス）"},
+
+{"link" : "https://www.dendai.ac.jp/access/saitama_hatoyama.html",
+"Description" :" 交通案内（埼玉鳩山キャンパス）"},
+
+{"link" : "https://www.dendai.ac.jp/access/chiba_newtown.html",
+"Description ": "交通案内（千葉ニュータウンキャンパス）"},
+
+{"link" : "https://www.dendai.ac.jp/prospective-students/index.html",
+"Description" :"受験生・高校生の方"},
+
+{"link" : "https://www.dendai.ac.jp/students/index.html",
+"Description ": "在学生・保護者の方"},
+
+{"link" : "https://www.dendai.ac.jp/alumni/index.html",
+"Description" :" 卒業生の方"},
+
+{"link" : "https://www.dendai.ac.jp/companies/index.html",
+"Description" : "企業・研究機関の方"},
+
+{"link" : "https://www.dendai.ac.jp/generals/index.html",
+"Description : 一般・地域の方"},
+
+{"link" : "https://www.dendai.ac.jp/contact/index.html",
+"Description ": "お問い合わせ一覧"},
+
+{"link" :" https://www.dendai.ac.jp/about/gakuen/institutions/",
+"Description" : "系列校・関連機関"},
+
+{"link ":" http://www.dendai.ed.jp/",
+"Description" : "東京電機大学中学校・高等学校"},
+
+{"link" : "http://www.tdupress.jp/",
+"Description" : "東京電機大学出版局"},
+
+{"link : http://www.tduaa.or.jp/",
+"Description" : "一般社団法人東京電機大学校友会"},
+
+{"link ": "https://www.dendai.ac.jp#",
+"Description" : "page top"},
+
+{"link" :" https://www.facebook.com/TokyoDenkiUniversity/",
+"Description" : "facebook"},
+
+{"link" : "https://twitter.com/TDU_webmaster",
+"Description ": "twitter"},
+
+{"link" : "https://www.youtube.com/user/TokyoDenkiUniversity",
+"Description ": "youtube"},
+
+{"link" : "https://www.dendai.ac.jp/staff/",
+"Description : 教職員の皆様"},
+
+{"link" : "https://www.dendai.ac.jp/recruit/",
+"Description" : "採用情報"},
+
+{"link ": "https://www.csirt.dendai.ac.jp/",
+"Description" : "情報セキュリティ対応・対策窓口 TDU-CSIRT"},
+
+{"link" : "https://www.dendai.ac.jp/whistleblowing/",
+"Description" : "公益通報窓口"},
+
+{"link" : "https://www.dendai.ac.jp/sitepolicy/",
+"Description" :" このサイトについて"},
+
+{"link" : "https://www.dendai.ac.jp/privacypolicy/",
+"Description" :" プライバシーポリシー"},
+
+{"link" :"https://www.dendai.ac.jp#",
+"Description ": "PC版を表示"},
+
+{"link" : "https://www.dendai.ac.jp#",
+"Description" : "SP版を表示"},
+
+{"link ": "https://www.dendai.ac.jp/",
+"Description" : "東京電機大学"},
+
+{"link" : "https://www.dendai.ac.jp//about/tdu/valuation/",
+"Description" : ""},
+
+}
